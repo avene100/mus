@@ -1,5 +1,4 @@
 # jmthon
 
-< ع  محاذاة = "اليسار" > < و  أ href = " https://heroku.com/deploy؟template=https://github.c-AR/mus a" >  < IMG  SRC = " HTTPS: //img.shields .io / Badge / Deploy٪ 20To٪ 20Heroku-purple؟ style = for-the-شارة & logo = heroku "  width = " 320 "  height = " 58.45 " /> </ a > </ p vene100
-
+< ع  محاذاة = "اليسار" > < و  أ href = " https://heroku.com/deploy؟template=https://github.c-avene100/mus a" >  < IMG  SRC = " HTTPS: //img.shields .io / Badge / Deploy٪ 20To٪ 20Heroku-purple؟ style = for-the-شارة & logo = heroku "  width = " 320 "  height = " 58.45 " /> </ a > </ p
 >
